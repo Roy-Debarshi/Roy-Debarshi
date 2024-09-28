@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roy-Debarshi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data or Business analytics projects
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning data engineering tools - Snowflake, Databricks, Pyspark
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me debarshiroy15052000@gmail.com
 
 <!---
